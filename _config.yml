@@ -186,6 +186,8 @@ gravatar:
   email: eyrefree@eyrefree.org
   hash: d41d8cd98f00b204e9800998ecf8427e
 
+beian: "苏ICP备15023694号-2"
+
 # loads libraries and styles from CDN instead or relying on local files
 cdn:
   enable: true
